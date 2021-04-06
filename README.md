@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🤖 ❤️ 🎵
 
 <!--
 **hvdson/hvdson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
